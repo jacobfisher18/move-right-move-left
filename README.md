@@ -2,8 +2,7 @@
 An in-browser pong-inspired game built using JavaScript and the HTML5 canvas
 
 #### How to Run
- - click "download zip"
- - unzip, and then launce "home.html" in your browser of choice
+[Available here](http://jacobfisher18.github.io/move-right-move-left/)
 
 #### Game Tutorial
 - Move Right Move Left is a game that's a little bit different.
